@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateWorks.app", "ChocolateWorks.app\ChocolateWorks.app.csproj", "{DDD6094B-1F8B-4647-B670-DD0A7038191D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateWorks.Tests", "ChocolateWorks.Tests\ChocolateWorks.Tests.csproj", "{3E6323DB-D715-4D58-A80C-2FF087DCAADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD6094B-1F8B-4647-B670-DD0A7038191D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD6094B-1F8B-4647-B670-DD0A7038191D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD6094B-1F8B-4647-B670-DD0A7038191D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD6094B-1F8B-4647-B670-DD0A7038191D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6323DB-D715-4D58-A80C-2FF087DCAADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6323DB-D715-4D58-A80C-2FF087DCAADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6323DB-D715-4D58-A80C-2FF087DCAADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6323DB-D715-4D58-A80C-2FF087DCAADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
